@@ -1,5 +1,8 @@
 # API APNR sederhana menggunakan file
 
+### Enpoint
+- prediction
+
 ### key
 
 - image (file)
